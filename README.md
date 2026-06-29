@@ -1,11 +1,10 @@
 # Pandoc Website Template
 
-[![pages-deploy](https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml/badge.svg)](https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml)
-[![shellcheck](https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml)
+[//]: # ([![pages-deploy]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml/badge.svg&#41;]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml&#41;)
+
+[//]: # ([![shellcheck]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml/badge.svg&#41;]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml&#41;)
 
 A template to build static websites with [Pandoc](https://pandoc.org/). 
-
-Demo site: [pandoc.merose.com](https://pandoc.merose.com/).
 
 ## Use
 
