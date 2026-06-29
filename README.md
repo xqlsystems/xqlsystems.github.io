@@ -1,10 +1,10 @@
-# Pandoc Website Template
+# xql.systems static website
 
-[//]: # ([![pages-deploy]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml/badge.svg&#41;]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/pages.yml&#41;)
+[![pages-deploy](https://github.com/xqlsystems/xqlsystems.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/xqlsystems/xqlsystems.github.io/actions/workflows/pages.yml)
+[![pandoc-build](https://github.com/xqlsystems/xqlsystems.github.io/actions/workflows/build.yml/badge.svg)](https://github.com/xqlsystems/xqlsystems.github.io/actions/workflows/build.yml)
+[![shellcheck](https://github.com/xqlsystems/xqlsystems.github.io/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/xqlsystems/xqlsystems.github.io/actions/workflows/shellcheck.yml)
 
-[//]: # ([![shellcheck]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml/badge.svg&#41;]&#40;https://github.com/alxmrs/pandoc-website-template/actions/workflows/shellcheck.yml&#41;)
-
-A template to build static websites with [Pandoc](https://pandoc.org/). 
+Generated with Pandoc.
 
 ## Use
 
