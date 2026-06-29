@@ -14,13 +14,13 @@ querying it usually means writing imperative array code. Our goal is to let you
 point SQL at Zarr stores and get back the data you want, with the array world
 and the relational world meeting in the middle.
 
-## Key tech stack
+## Key Projects
 
-- **[Xarray](https://xarray.dev/)** — labeled, multidimensional array model and
-  the bridge to Zarr.
-- **[DataFusion](https://datafusion.apache.org/)** — query planning and
-  execution engine.
-- **[DuckDB](https://duckdb.org/)** — in-process analytical SQL engine.
+- **[Xarray-SQL](https://xql.systems/xarray-sql/)** — Briding [Xarray](https://xarray.dev) - labeled, multidimensional array model and
+  the bridge to Zarr - with SQL.
+- **[Zarr-DataFusion](https://github.com/jayendra13/zarr-datafusion)** — [DataFusion's](https://datafusion.apache.org/) query planning and
+  execution engine on top of Zarr and [IceChunk](https://icechunk.io/)
+- **[DuckDB-Zarr](https://github.com/xqlsystems/duckdb-zarr)** — Zarr integration with [DuckDB's](http://duckdb.org/) in-process analytical SQL engine.
 
 
 ## Join us
