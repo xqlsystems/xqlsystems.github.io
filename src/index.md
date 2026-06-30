@@ -1,5 +1,6 @@
 ---
 title: xql.systems
+description-meta: Towards Relational Arrays
 ---
 
 We're building a **SQL layer on top of [Zarr](https://zarr.dev/)** — bringing
