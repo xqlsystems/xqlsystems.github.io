@@ -42,7 +42,10 @@ nav ul li {
 }
 
 img {
+    width: 100px;
     max-width: 95%;
+    float: left;
+    padding: 10px;
 }
 
 /*Thanks https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling */
