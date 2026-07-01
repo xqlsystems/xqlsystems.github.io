@@ -46,6 +46,19 @@ img {
     max-width: 95%;
     float: left;
     padding: 10px;
+    transition: filter 1s;
+}
+
+img:hover {
+    filter: invert(0.9);
+}
+
+a {
+    transition: filter 1s;
+}
+
+a:hover {
+    filter: invert(0.9);
 }
 
 /*Thanks https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling */
