@@ -28,4 +28,4 @@ and the relational world meeting in the middle.
 
 ## Join us
 
-Raise an issue, file a PR, or [chat with us on Discord](https://discord.gg/DHXwnzYu).
+Raise an issue, file a PR, or [chat with us on Discord](https://discord.gg/6JwnQDwGph).
