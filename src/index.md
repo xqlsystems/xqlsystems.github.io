@@ -21,8 +21,6 @@ and the relational world meeting in the middle.
 
 - **[Xarray-SQL](https://xql.systems/xarray-sql/)** — Briding [Xarray](https://xarray.dev) - labeled, multidimensional array model and
   the bridge to Zarr - with SQL.
-- **[Zarr-DataFusion](https://github.com/jayendra13/zarr-datafusion)** — [DataFusion's](https://datafusion.apache.org/) query planning and
-  execution engine on top of Zarr and [IceChunk](https://icechunk.io/)
 - **[DuckDB-Zarr](https://github.com/xqlsystems/duckdb-zarr)** — Zarr integration with [DuckDB's](http://duckdb.org/) in-process analytical SQL engine.
 
 
