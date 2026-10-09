@@ -5,7 +5,7 @@ description-meta: Towards Relational Arrays
 
 ![](assets/logo.png)
 
-We're on a mission to prove that relational algebrea is as important as linear algebra or calculus in computational science and machine learning. 
+_We're on a mission to prove that relational algebra is as important as linear algebra or calculus for science and machine learning._
 
 We're building a **SQL layer on top of [Zarr](https://zarr.dev/)** — bringing
 familiar, declarative SQL querying to multidimensional array data.
