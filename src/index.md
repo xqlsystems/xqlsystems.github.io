@@ -24,7 +24,7 @@ and the relational world meeting in the middle.
 - **[Xarray-SQL](https://xql.systems/xarray-sql/)** — Briding [Xarray](https://xarray.dev) - labeled, multidimensional array model and
   the bridge to Zarr - with SQL.
 - **[DuckDB-Zarr](https://github.com/xqlsystems/duckdb-zarr)** — Zarr integration with [DuckDB's](http://duckdb.org/) in-process analytical SQL engine.
-- **[ddx](https://github.com/xqlsystems/ddx)** - JAX style automatic differentiation in SQL. We want to make differentiable programming declarative and relational.
+- **[ddx](https://github.com/xqlsystems/ddx)** - [JAX](https://jax.dev) style automatic differentiation in SQL. We want to make differentiable programming declarative and relational.
 
 ## Join us
 
