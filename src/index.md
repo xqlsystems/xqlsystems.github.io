@@ -10,7 +10,6 @@ _We're on a mission to prove that relational algebra is as important to science 
 We're building a **SQL layer on top of [Zarr](https://zarr.dev/)** — bringing
 familiar, declarative SQL querying to multidimensional array data.
 
-This organization hosts all the repositories related to that effort.
 
 ## What we're working on
 
@@ -21,7 +20,7 @@ and the relational world meeting in the middle.
 
 ## Key Projects
 
-- **[Xarray-SQL](https://xql.systems/xarray-sql/)** — Briding [Xarray](https://xarray.dev) - labeled, multidimensional array model and
+- **[Xarray-SQL](https://xql.systems/xarray-sql/)** — Bridging [Xarray](https://xarray.dev) - labeled, multidimensional array model and
   the bridge to Zarr - with SQL.
 - **[DuckDB-Zarr](https://github.com/xqlsystems/duckdb-zarr)** — Zarr integration with [DuckDB's](http://duckdb.org/) in-process analytical SQL engine.
 - **[ddx](https://github.com/xqlsystems/ddx)** - [JAX](https://jax.dev) style automatic differentiation in SQL. We want to make differentiable programming declarative and relational.
